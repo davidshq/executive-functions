@@ -7,11 +7,12 @@
 
 ## Tasks
 
+### Fields
 - Created Date (auto-created)
 - Updated Date (auto-created)
 - Reviewed Date (optional)
-- Due Date (optional)
-- Goal Date (optional)
+- Due Date (optional) - The date when this must be completed by.
+- Goal Date (optional) - The date we want to complete this by.
 - Task title (brief description, required)
 - Task description (optional)
 - Task comments (optional)
@@ -19,7 +20,12 @@
 - Tags (optional)
 - Completed (optional)
 - Parent/Child Tasks (optional)
+- Impact (optional) - integer
+- Effort (optional) - integer
+
+### Functionality
 - Tasks must be infinitely nestable.
+- Must support recurring tasks.
 
 ## Data Storage and Sync
 
@@ -43,6 +49,11 @@
 - Observe what is making / breaking you (e.g. time leeches, time savers).
 - Prioritize Tasks - Rate tasks according to Impact (High/Low) and Effort (High/Low).
 
+### Weekly Workflow
+
+
+### Strategic Workflow
+
 ## Goals
 
 - Should support a method for adding big picture goals that help keep the focus on what is important.
@@ -51,20 +62,23 @@
 
 - Should provide us a high-level overview of what we need to do today, this week, and this month, long-term.
 
-## Review View
+## Views
+
+### Review View
 
 - A view in which one can review all tasks and projects, this updates the Reviewed Date for each item that is reviewed. It helps ensure that items don't get lost.
 
-## Delegation View
+### Delegation View
 
 - One should be able to delegate tasks to other individuals.
 - These individuals should not need to use the system.
+
+### Custom Views
+
+- It needs to be extremely simple to create and save views.
 
 ## Capture Methods
 
 - One should be able to use any of the cross-platform applications.
 - One should be able to submit tasks via email and SMS.
 - There should be an extremely lightweight way to add tasks. It can't be more complicated that create a note in notepad.
-
-## Recurring Tasks
-- Should be able to create recurring tasks.
