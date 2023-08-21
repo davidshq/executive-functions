@@ -25,3 +25,9 @@ What would a project / life management system look like that provided accommodat
 - [Desirable Functionality](desirable-functionality.md) - Functionality that would be nice to have, but is not required.
 - [No Functionality](no-functionality.md) - Functionality that will not be included in the system.
 - [Best of Functionality](best-of-functionality.md) - An evaluation of what existing products and what makes them amazing to discover the best of functionality and consider it for implementation.
+
+## Other Systems
+
+In this section you'll find links to analyses of other systems I've found to offer something unique or interesting - or perhaps just because the system is popular and this section would seem incomplete without it.
+
+- [Simpleology](others/simpleology.md)
