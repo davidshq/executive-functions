@@ -28,6 +28,7 @@ What sort of limitations?
 - [No Functionality](no-functionality.md) - Functionality that will not be included in the system.
 - [Best of Functionality](best-of-functionality.md) - An evaluation of what existing products and what makes them amazing to discover the best of functionality and consider it for implementation.
 - [Non-User Functionality](non-user-functionality.md) - How to integrate people who aren't using the system into the system - e.g., someone who you are holding responsible for completing a task but isn't part of the organization, e.g. could be a designer outside of the organization or an auto mechanic who doesn't use the system.
+- [What Are Executive Functions?](what-are-executive-functions.md) - Since much of what we are attempting to do is augment an individual's executive functions knowing a bit about how they function makes sense.
 
 ## Other Systems
 
